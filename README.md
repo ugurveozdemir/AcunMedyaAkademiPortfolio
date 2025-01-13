@@ -26,7 +26,7 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 ## 📸 Görseller
 
 ### 🏠 Anasayfa Fotoğrafları
-![Anasayfa Görseli](images/j1.jpg)
+![Anasayfa Görseli](images/f1.png)
 
 ### 🔑 Admin Paneli Fotoğrafları
 ![Admin Paneli Görseli 1](images/a1.png)  
