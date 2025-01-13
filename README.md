@@ -29,9 +29,9 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 ![Anasayfa Görseli](images/j1.jpg)
 
 ### 🔑 Admin Paneli Fotoğrafları
-![Admin Paneli Görseli 1](images/a1.jpg)  
-![Admin Paneli Görseli 2](images/a2.jpg)  
-![Admin Paneli Görseli 3](images/a3.jpg)
+![Admin Paneli Görseli 1](images/a1.png)  
+![Admin Paneli Görseli 2](images/a2.png)  
+![Admin Paneli Görseli 3](images/a3.png)
 
 ---
 
